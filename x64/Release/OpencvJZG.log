@@ -1,0 +1,65 @@
+﻿  quickdemo.cpp
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(695,39): warning C4244: “参数”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(695,78): warning C4244: “参数”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(695,14): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(738,46): warning C4244: “参数”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(738,86): warning C4244: “参数”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(738,20): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(822,40): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(822,31): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(824,41): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(824,32): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(843,42): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(843,35): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(854,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(855,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(896,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(897,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(898,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Tingfeng\source\repos\OpencvJZG\OpencvJZG\quickdemo.cpp(900,68): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  7 of 248 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OpencvJZG.vcxproj -> C:\Users\Tingfeng\source\repos\OpencvJZG\x64\Release\OpencvJZG.exe
